@@ -1,2 +1,16 @@
-# mlsecops-neural-artifact-inspector
+# Mlsecops Neural Artifact Inspector
+
 Tools to inspect small neural-network weights for sparsity, lookup tables, hardcoded logic and MLSecOps risks.
+
+## Project layout
+
+- `src/` — ...
+- `notebooks/` — ...
+- `tests/` — ...
+- `samples/` — ...
+- `docs/` — ...
+
+## Status
+
+Initial scaffold. Content and experiments in progress.
+
